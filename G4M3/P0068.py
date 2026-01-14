@@ -1,0 +1,1 @@
+print('S') if int(input()) != 0 else print('N')
